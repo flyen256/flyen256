@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Mak2021-lol
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mak2021-lol/Mak2021-lol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Привет, I’m @Mak2021-lol
+- 👀 Я занимаюсь играми и моделированием
+- 🌱 Сейчас я изучаю дарт
+- 💞️ Я програмист на нескольких языках, дарт и питон
+- 📫 My gmail lolka1337kamlol@gmail.com
