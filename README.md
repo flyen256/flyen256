@@ -1,4 +1,4 @@
-<h1>My skills</h1>
+<h1 align="center">My skills</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,arch,express,nestjs,react,discordjs,cs)](https://skillicons.dev)
 
