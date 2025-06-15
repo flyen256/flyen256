@@ -1,4 +1,4 @@
-<ul>
+<ul align="center">
   <li>👀 Я крутой</li>
   <li>🌱 Учу фулл-стек PERN (Nest.js, Vite.js, </li>
   <li>💞️ Знаю C# + Unity<br></li>
