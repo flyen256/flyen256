@@ -1,9 +1,8 @@
 <ul>
   <li>👀 Я крутой</li>
+  <li>🌱 Учу фулл-стек PERN (Nest.js, Vite.js, </li>
+  <li>💞️ Знаю C# + Unity<br></li>
 </ul>
-- 
-- 🌱 Учу фулл-стек PERN (Nest.js, Vite.js, 
-- 💞️ Знаю C# + Unity<br>
 # My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,arch,express,nestjs,react,discordjs,cs)](https://skillicons.dev)
 
