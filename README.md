@@ -12,7 +12,7 @@
   #### And Avalonia UI
   ### 🛠️ Editors
   [![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,rider)](https://skillicons.dev)
-  ### Other
+  ### 🔗 Other
   [![Editors](https://skillicons.dev/icons?i=nodejs,arch)](https://skillicons.dev)
 </div>
 <hr/>
