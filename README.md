@@ -6,11 +6,14 @@
 <div align="center">
   
   ### 🌐 Web
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nestjs,react)](https://skillicons.dev)
-  ### 📋.NET
-  
-  [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
-  ### And Avalonia UI
+  [![Web](https://skillicons.dev/icons?i=js,ts,html,css,express,nestjs,react,vite)](https://skillicons.dev)
+  ### 📋 .NET
+  [![.NET](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
+  #### And Avalonia UI
+  ### 🛠️ Editors
+  [![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,rider)](https://skillicons.dev)
+  ### Other
+  [![Editors](https://skillicons.dev/icons?i=nodejs,arch)](https://skillicons.dev)
 </div>
 <hr/>
 
