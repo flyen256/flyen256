@@ -25,7 +25,7 @@
   <hr/>
   
   ### 🔗 Other
-  [![Editors](https://skillicons.dev/icons?i=nodejs,arch,linux,figma,discordjs,blender,bash,unreal,ps,nginx,ae)](https://skillicons.dev)
+  [![Editors](https://skillicons.dev/icons?i=nodejs,arch,linux,figma,discordjs,blender,bash,unreal,ps,ae,nginx)](https://skillicons.dev)
 </div>
 <hr/>
 
