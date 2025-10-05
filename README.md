@@ -37,7 +37,7 @@
   ![flyen256's Streak](https://github-readme-streak-stats.herokuapp.com/?user=flyen256&theme=onedark&hide_border=true)<br/>
   
 </div>
-<div>
+<div align="center">
 
   ![flyen256's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flyen256&theme=onedark&show_icons=true&hide_border=true&layout=compact)<br/>
 </div>
