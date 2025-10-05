@@ -33,7 +33,7 @@
 <div align="center">
   
   [![](https://wakatime.com/share/@flyen256/7f54f84c-e643-4da0-8d0e-52391c98f232.svg)](https://wakatime.com/share/@flyen256/7f54f84c-e643-4da0-8d0e-52391c98f232.svg)
-  ![flyen256's Stats](https://github-readme-stats.vercel.app/api?username=flyen256&theme=onedark&show_icons=true&hide_border=true&count_private=true)<br/>
+  ![flyen256's Stats](https://github-readme-stats.vercel.app/api?username=flyen256&theme=onedark&show_icons=true&hide_border=true&count_private=true)
   ![flyen256's Streak](https://github-readme-streak-stats.herokuapp.com/?user=flyen256&theme=onedark&hide_border=true)<br/>
   ![flyen256's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flyen256&theme=onedark&show_icons=true&hide_border=true&layout=compact)<br/>
   
