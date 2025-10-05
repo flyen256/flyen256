@@ -13,7 +13,7 @@
   ### 🛠️ Editors
   [![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,rider)](https://skillicons.dev)
   ### 🔗 Other
-  [![Editors](https://skillicons.dev/icons?i=nodejs,arch)](https://skillicons.dev)
+  [![Editors](https://skillicons.dev/icons?i=nodejs,arch,linux,figma,discordjs,blender,bash)](https://skillicons.dev)
 </div>
 <hr/>
 
