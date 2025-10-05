@@ -2,10 +2,10 @@
 <p align="center">💻Full-stack Developer - React/Vite/NestJS | 🌟C# .NET Developer - Avalonia UI | 🔥C# Unity Developer</p>
 <hr/>
 
-<h1 align="left">📈 My skills</h1>
+## 📈 My skills
 <div align="center">
-  ### 🌐 Web
   
+  ### 🌐 Web
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nestjs,react)](https://skillicons.dev)
   ### 📋.NET
   
@@ -14,7 +14,7 @@
 </div>
 <hr/>
 
-<h1>📊 Stats</h1>
+## 📊 Stats
 
 <div align="center">
   
