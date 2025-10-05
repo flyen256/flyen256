@@ -6,7 +6,7 @@
 </ol>
 
 <h1 align="left">My skills</h1>
-<div align="center">
+<div align="left">
   <h2 align="left">🌐 Web</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nestjs,react)](https://skillicons.dev)
