@@ -7,11 +7,17 @@
   
   ### 🌐 Web
   [![Web](https://skillicons.dev/icons?i=js,ts,html,css,express,nestjs,react,vite)](https://skillicons.dev)
+  <hr/>
+  
   ### 📋 .NET
   [![.NET](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
+  <hr/>
+  
   #### And Avalonia UI
   ### 🛠️ Editors
   [![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,rider)](https://skillicons.dev)
+  <hr/>
+  
   ### 🔗 Other
   [![Editors](https://skillicons.dev/icons?i=nodejs,arch,linux,figma,discordjs,blender,bash)](https://skillicons.dev)
 </div>
