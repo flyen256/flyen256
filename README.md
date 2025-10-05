@@ -1,9 +1,5 @@
-<h1>Hi there, i'm flyen256.</h1>
-<ol>
-  <li>📌Full-stack Developer - React/Vite/NestJS</li>
-  <li>🌟C# .NET Developer - Avalonia UI</li>
-  <li>🔥C# Unity Developer</li>
-</ol>
+<h1 align="center">👋 Hi there, i'm flyen256.</h1>
+<p>📌Full-stack Developer - React/Vite/NestJS | 🌟C# .NET Developer - Avalonia UI | 🔥C# Unity Developer</p>
 
 <h1 align="left">📈 My skills</h1>
 <div align="center">
