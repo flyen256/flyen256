@@ -3,16 +3,16 @@
 <hr/>
 
 <h1 align="left">📈 My skills</h1>
-<hr/>
 <div align="center">
-  <h2>🌐 Web</h2>
+  <p>🌐 Web</p>
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nestjs,react)](https://skillicons.dev)
-  <h2>📋.NET</h2>
+  <p>📋.NET</p>
   
   [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
   <p>And Avalonia UI</p>
 </div>
+<hr/>
 
 <h1>📊 Stats</h1>
 
