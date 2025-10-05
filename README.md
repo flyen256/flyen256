@@ -5,7 +5,7 @@
   <li>🔥C# Unity Developer</li>
 </ol>
 
-<h1 align="center">📈 My skills</h1>
+<h1 align="left">📈 My skills</h1>
 <div align="center">
   <h2>🌐 Web</h2>
   
