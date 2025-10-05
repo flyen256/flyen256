@@ -5,12 +5,12 @@
   <li>🔥C# Unity Developer</li>
 </ol>
 
-<h1 align="left">📈 My skills</h1>
-<div align="left">
-  <h2 align="left">🌐 Web</h2>
+<h1 align="center">📈 My skills</h1>
+<div align="center">
+  <h2>🌐 Web</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nestjs,react)](https://skillicons.dev)
-  <h2 align="left">📋.NET</h2>
+  <h2>📋.NET</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
   <p>And Avalonia UI</p>
