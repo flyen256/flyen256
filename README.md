@@ -6,7 +6,7 @@
 <div align="center">
   
   ### 🌐 Web
-  [![Web](https://skillicons.dev/icons?i=js,ts,html,css,express,nestjs,react,vite)](https://skillicons.dev)
+  [![Web](https://skillicons.dev/icons?i=js,ts,html,css,express,nestjs,react,vite,styledcomponents,redux,redis,prisma,postgres)](https://skillicons.dev)
   <hr/>
   
   ### 📋 .NET
@@ -19,7 +19,7 @@
   <hr/>
   
   ### 🔗 Other
-  [![Editors](https://skillicons.dev/icons?i=nodejs,arch,linux,figma,discordjs,blender,bash)](https://skillicons.dev)
+  [![Editors](https://skillicons.dev/icons?i=nodejs,arch,linux,figma,discordjs,blender,bash,unreal,ps,nginx)](https://skillicons.dev)
 </div>
 <hr/>
 
