@@ -10,7 +10,7 @@
   <hr/>
   
   ### 📋 .NET
-  [![.NET](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
+  [![.NET](https://skillicons.dev/icons?i=cs,unity,dotnet)](https://skillicons.dev)
   #### And Avalonia UI
   <hr/>
   
