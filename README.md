@@ -7,14 +7,12 @@
 
 <h1 align="center">My skills</h1>
 <div align="center">
-  <h2>📌Backend</h2>
+  <h2>🌐 Web</h2>
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nestjs,react)](https://skillicons.dev)
   <h2>.NET</h2>
-  <div width="48px">
-    
-    [![avalonia](https://avatars.githubusercontent.com/u/58937344?v=4)](https://avatars.githubusercontent.com/u/58937344?v=4)
-    
-  </div>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,arch,express,nestjs,react,discordjs,cs)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=cs,unity,avalonia)](https://skillicons.dev)
   
   [![wakatime](https://wakatime.com/badge/user/050e9fd9-87b4-47e3-a827-eda8b2bde1a6.svg)](https://wakatime.com/@050e9fd9-87b4-47e3-a827-eda8b2bde1a6)<br/>
 
