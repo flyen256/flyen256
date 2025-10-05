@@ -4,13 +4,13 @@
 
 <h1 align="left">📈 My skills</h1>
 <div align="center">
-  <p>🌐 Web</p>
+  ### 🌐 Web
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nestjs,react)](https://skillicons.dev)
-  <p>📋.NET</p>
+  ### 📋.NET
   
   [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
-  <p>And Avalonia UI</p>
+  ### And Avalonia UI
 </div>
 <hr/>
 
