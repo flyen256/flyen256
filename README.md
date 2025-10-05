@@ -3,6 +3,7 @@
 <hr/>
 
 <h1 align="left">📈 My skills</h1>
+<hr/>
 <div align="center">
   <h2>🌐 Web</h2>
   
