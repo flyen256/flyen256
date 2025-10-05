@@ -15,6 +15,5 @@
   [![](https://wakatime.com/share/@flyen256/7f54f84c-e643-4da0-8d0e-52391c98f232.svg)](https://wakatime.com/share/@flyen256/7f54f84c-e643-4da0-8d0e-52391c98f232.svg)
   
 </div>
-<div>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=flyen256&theme=onedark)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=flyen256&theme=onedark)](https://git.io/streak-stats)
