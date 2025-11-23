@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi there, i'm flyen256.</h1>
 <p align="center">💻Full-stack Developer - React/Vite/NestJS | 🌟C# .NET Developer - Avalonia UI | 🔥C# Unity Developer</p>
+<p align="center">🧠Learning C</p>
 
 <div align="center">
   
