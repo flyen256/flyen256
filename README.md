@@ -13,7 +13,7 @@
 <div align="center">
   
   ### 🌐 Web
-  [![Web](https://skillicons.dev/icons?i=js,ts,html,css,express,nestjs,react,vite,styledcomponents,redux,redis,prisma,postgres)](https://skillicons.dev)
+  [![Web](https://skillicons.dev/icons?i=js,ts,html,css,express,nestjs,react,vite,styledcomponents,redux,redis,prisma,postgres,typeorm)](https://skillicons.dev)
   <hr/>
   
   ### 📋 .NET
