@@ -22,7 +22,7 @@
   <hr/>
   
   ### 🛠️ Editors
-  [![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,rider)](https://skillicons.dev)
+  [![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,rider,idea)](https://skillicons.dev)
   <hr/>
   
   ### 🔗 Other
